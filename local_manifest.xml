@@ -26,6 +26,7 @@
   <project path="bionic" name="pyo3377/android_bionic" />
   <project path="frameworks/av" name="pyo3377/android_frameworks_av" />
   <project path="frameworks/base" name="pyo3377/android_frameworks_base" />
+  <project path="hardware/lineage/livedisplay" name="pyo3377/android_hardware_lineage_livedisplay" />
   <project path="packages/modules/Permission" name="pyo3377/android_packages_modules_Permission" />
   <project path="packages/apps/Settings" name="pyo3377/android_packages_apps_Settings" />
   <project path="system/core" name="pyo3377/android_system_core" groups="pdk" />
