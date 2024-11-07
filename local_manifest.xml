@@ -7,6 +7,7 @@
   <remove-project name="android_frameworks_av" />
   <remove-project name="android_frameworks_base" />
   <remove-project name="android_system_core" /> 
+  <remove-project name="platform/external/bouncycastle" />
   <remove-project name="platform/external/jemalloc_new" />
 
 <!-- pathm -->
