@@ -24,6 +24,7 @@
 
   <project path="packages/apps/Aperture" name="pyo3377/android_packages_apps_Aperture" />
   <project path="bionic" name="pyo3377/android_bionic" />
+  <project path="external_bouncycastle" name="pyo3377/android_external_bouncycastle" groups="pdk" />
   <project path="frameworks/av" name="pyo3377/android_frameworks_av" />
   <project path="frameworks/base" name="pyo3377/android_frameworks_base" />
   <project path="hardware/lineage/livedisplay" name="pyo3377/android_hardware_lineage_livedisplay" />
