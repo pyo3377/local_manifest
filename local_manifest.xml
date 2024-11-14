@@ -15,7 +15,7 @@
      
      <project path="vendor/xiaomi/mojito" name="vendor_xiaomi_mojito" remote="tree" revision="arrow" />
      
-     <project path="vendor/arrow/keys/keys" name="keys" revision="arrow" remote="tree" />
+     <project path="vendor/arrow/signing/keys" name="keys" revision="arrow" remote="tree" />
 
      <project path="kernel/xiaomi/mojito" name="kernel_xiaomi_mojito" revision="arrow" remote="tree" />
 
